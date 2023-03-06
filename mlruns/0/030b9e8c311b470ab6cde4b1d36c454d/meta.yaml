@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ot/Documents/Udacity/MLOps/genre_classification/mlruns/0/030b9e8c311b470ab6cde4b1d36c454d/artifacts
+end_time: 1678076149030
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 030b9e8c311b470ab6cde4b1d36c454d
+run_name: skillful-penguin-213
+run_uuid: 030b9e8c311b470ab6cde4b1d36c454d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678075361409
+status: 4
+tags: []
+user_id: ot

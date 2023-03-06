@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ot/Documents/Udacity/MLOps/genre_classification/mlruns/0/216b2188228743a283882ff5e4b61e9c/artifacts
+end_time: 1678057493132
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 216b2188228743a283882ff5e4b61e9c
+run_name: flawless-gnu-539
+run_uuid: 216b2188228743a283882ff5e4b61e9c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678057469709
+status: 3
+tags: []
+user_id: ot

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ot/Documents/Udacity/MLOps/genre_classification/mlruns/0/e78a2d39a16149cdb357d1bb2efea693/artifacts
+end_time: 1678076316131
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e78a2d39a16149cdb357d1bb2efea693
+run_name: legendary-shrimp-436
+run_uuid: e78a2d39a16149cdb357d1bb2efea693
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678076298801
+status: 3
+tags: []
+user_id: ot

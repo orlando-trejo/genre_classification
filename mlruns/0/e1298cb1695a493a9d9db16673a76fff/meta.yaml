@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ot/Documents/Udacity/MLOps/genre_classification/mlruns/0/e1298cb1695a493a9d9db16673a76fff/artifacts
+end_time: 1678076458637
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e1298cb1695a493a9d9db16673a76fff
+run_name: illustrious-colt-464
+run_uuid: e1298cb1695a493a9d9db16673a76fff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678076442997
+status: 3
+tags: []
+user_id: ot

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ot/Documents/Udacity/MLOps/genre_classification/mlruns/0/338c6928b62a4eaeb588b59bd81fc3d4/artifacts
+end_time: 1678058054089
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 338c6928b62a4eaeb588b59bd81fc3d4
+run_name: salty-eel-11
+run_uuid: 338c6928b62a4eaeb588b59bd81fc3d4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678057820940
+status: 3
+tags: []
+user_id: ot

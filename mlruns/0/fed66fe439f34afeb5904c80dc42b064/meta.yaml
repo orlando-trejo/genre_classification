@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ot/Documents/Udacity/MLOps/genre_classification/mlruns/0/fed66fe439f34afeb5904c80dc42b064/artifacts
+end_time: 1678077919600
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fed66fe439f34afeb5904c80dc42b064
+run_name: nosy-colt-400
+run_uuid: fed66fe439f34afeb5904c80dc42b064
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678077872512
+status: 3
+tags: []
+user_id: ot

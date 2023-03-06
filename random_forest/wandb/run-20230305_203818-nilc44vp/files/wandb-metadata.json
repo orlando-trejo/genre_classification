@@ -1,0 +1,55 @@
+{
+    "os": "macOS-12.6.3-x86_64-i386-64bit",
+    "python": "3.10.9",
+    "heartbeatAt": "2023-03-06T04:38:19.348461",
+    "startedAt": "2023-03-06T04:38:18.815166",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "--train_data",
+        "data_train.csv:latest",
+        "--model_config",
+        "/Users/ot/Documents/Udacity/MLOps/genre_classification/outputs/2023-03-05/20-36-57/random_forest_config.yml",
+        "--export_artifact",
+        "model_export",
+        "--random_seed",
+        "42",
+        "--val_size",
+        "0.3",
+        "--stratify",
+        "genre"
+    ],
+    "state": "running",
+    "program": "/Users/ot/Documents/Udacity/MLOps/genre_classification/random_forest/run.py",
+    "codePath": "random_forest/run.py",
+    "git": {
+        "remote": "https://github.com/orlando-trejo/genre_classification.git",
+        "commit": "3dd6c7f204c81e13823e7a9891c49accc1feb7cf"
+    },
+    "email": null,
+    "root": "/Users/ot/Documents/Udacity/MLOps/genre_classification",
+    "host": "MacBook-Pro-de-OT.local",
+    "username": "ot",
+    "executable": "/Users/ot/opt/anaconda3/envs/mlflow-2f4e8446e4b6dcb4db7b63477d63a1413fbd6359/bin/python",
+    "cpu_count": 8,
+    "cpu_count_logical": 16,
+    "cpu_freq": {
+        "current": 2300,
+        "min": 2300,
+        "max": 2300
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2300,
+            "min": 2300,
+            "max": 2300
+        }
+    ],
+    "disk": {
+        "total": 931.546989440918,
+        "used": 19.219886779785156
+    },
+    "memory": {
+        "total": 16.0
+    }
+}

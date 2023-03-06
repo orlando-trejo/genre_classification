@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ot/Documents/Udacity/MLOps/genre_classification/mlruns/0/700ebfccf26e4194be7e9d346dcbb64f/artifacts
+end_time: 1678056290012
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 700ebfccf26e4194be7e9d346dcbb64f
+run_name: calm-shrew-678
+run_uuid: 700ebfccf26e4194be7e9d346dcbb64f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678056281296
+status: 4
+tags: []
+user_id: ot

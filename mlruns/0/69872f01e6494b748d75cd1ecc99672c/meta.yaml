@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ot/Documents/Udacity/MLOps/genre_classification/mlruns/0/69872f01e6494b748d75cd1ecc99672c/artifacts
+end_time: 1678077472899
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 69872f01e6494b748d75cd1ecc99672c
+run_name: enchanting-smelt-160
+run_uuid: 69872f01e6494b748d75cd1ecc99672c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678077454174
+status: 3
+tags: []
+user_id: ot

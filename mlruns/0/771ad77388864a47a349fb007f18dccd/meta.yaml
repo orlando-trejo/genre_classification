@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ot/Documents/Udacity/MLOps/genre_classification/mlruns/0/771ad77388864a47a349fb007f18dccd/artifacts
+end_time: 1678077797136
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 771ad77388864a47a349fb007f18dccd
+run_name: glamorous-hen-303
+run_uuid: 771ad77388864a47a349fb007f18dccd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678077776719
+status: 3
+tags: []
+user_id: ot

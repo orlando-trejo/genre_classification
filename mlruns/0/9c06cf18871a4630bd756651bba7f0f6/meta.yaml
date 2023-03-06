@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ot/Documents/Udacity/MLOps/genre_classification/mlruns/0/9c06cf18871a4630bd756651bba7f0f6/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9c06cf18871a4630bd756651bba7f0f6
+run_name: brawny-deer-977
+run_uuid: 9c06cf18871a4630bd756651bba7f0f6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678058092349
+status: 1
+tags: []
+user_id: ot

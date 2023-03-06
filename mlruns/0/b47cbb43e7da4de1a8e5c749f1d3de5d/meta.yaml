@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ot/Documents/Udacity/MLOps/genre_classification/mlruns/0/b47cbb43e7da4de1a8e5c749f1d3de5d/artifacts
+end_time: 1678077824294
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b47cbb43e7da4de1a8e5c749f1d3de5d
+run_name: resilient-wolf-768
+run_uuid: b47cbb43e7da4de1a8e5c749f1d3de5d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678077797171
+status: 3
+tags: []
+user_id: ot

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ot/Documents/Udacity/MLOps/genre_classification/mlruns/0/bb7467db8ce24c51a27a367631baeea8/artifacts
+end_time: 1678077435729
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bb7467db8ce24c51a27a367631baeea8
+run_name: receptive-asp-320
+run_uuid: bb7467db8ce24c51a27a367631baeea8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678077417232
+status: 3
+tags: []
+user_id: ot

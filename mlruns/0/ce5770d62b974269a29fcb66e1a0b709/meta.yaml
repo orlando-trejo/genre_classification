@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ot/Documents/Udacity/MLOps/genre_classification/mlruns/0/ce5770d62b974269a29fcb66e1a0b709/artifacts
+end_time: 1678076298764
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ce5770d62b974269a29fcb66e1a0b709
+run_name: likeable-elk-927
+run_uuid: ce5770d62b974269a29fcb66e1a0b709
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678076282326
+status: 3
+tags: []
+user_id: ot

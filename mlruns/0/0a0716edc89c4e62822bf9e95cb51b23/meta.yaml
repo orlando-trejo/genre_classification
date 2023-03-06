@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ot/Documents/Udacity/MLOps/genre_classification/mlruns/0/0a0716edc89c4e62822bf9e95cb51b23/artifacts
+end_time: 1678056394020
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0a0716edc89c4e62822bf9e95cb51b23
+run_name: worried-snipe-279
+run_uuid: 0a0716edc89c4e62822bf9e95cb51b23
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678056390374
+status: 4
+tags: []
+user_id: ot

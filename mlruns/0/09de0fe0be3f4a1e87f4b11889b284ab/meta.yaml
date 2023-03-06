@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ot/Documents/Udacity/MLOps/genre_classification/mlruns/0/09de0fe0be3f4a1e87f4b11889b284ab/artifacts
+end_time: 1678076442960
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 09de0fe0be3f4a1e87f4b11889b284ab
+run_name: peaceful-foal-357
+run_uuid: 09de0fe0be3f4a1e87f4b11889b284ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678076427454
+status: 3
+tags: []
+user_id: ot

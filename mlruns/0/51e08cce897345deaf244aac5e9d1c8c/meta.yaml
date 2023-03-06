@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ot/Documents/Udacity/MLOps/genre_classification/mlruns/0/51e08cce897345deaf244aac5e9d1c8c/artifacts
+end_time: 1678077491350
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 51e08cce897345deaf244aac5e9d1c8c
+run_name: legendary-hound-223
+run_uuid: 51e08cce897345deaf244aac5e9d1c8c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678077472938
+status: 3
+tags: []
+user_id: ot

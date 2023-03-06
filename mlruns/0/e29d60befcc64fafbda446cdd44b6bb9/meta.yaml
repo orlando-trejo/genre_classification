@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ot/Documents/Udacity/MLOps/genre_classification/mlruns/0/e29d60befcc64fafbda446cdd44b6bb9/artifacts
+end_time: 1678077842600
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e29d60befcc64fafbda446cdd44b6bb9
+run_name: crawling-sheep-188
+run_uuid: e29d60befcc64fafbda446cdd44b6bb9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678077824329
+status: 3
+tags: []
+user_id: ot

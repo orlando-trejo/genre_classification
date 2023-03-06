@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ot/Documents/Udacity/MLOps/genre_classification/mlruns/0/ff7488a8188046ac993702b2164047a1/artifacts
+end_time: 1678076411530
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ff7488a8188046ac993702b2164047a1
+run_name: persistent-yak-646
+run_uuid: ff7488a8188046ac993702b2164047a1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678076396567
+status: 3
+tags: []
+user_id: ot

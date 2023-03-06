@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ot/Documents/Udacity/MLOps/genre_classification/mlruns/0/e4c0df7a55a24d2b946103cc5a3a1fdb/artifacts
+end_time: 1678075361367
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e4c0df7a55a24d2b946103cc5a3a1fdb
+run_name: receptive-grub-885
+run_uuid: e4c0df7a55a24d2b946103cc5a3a1fdb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678075344625
+status: 3
+tags: []
+user_id: ot

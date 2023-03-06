@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ot/Documents/Udacity/MLOps/genre_classification/mlruns/0/fce066b070e2454886b710dc961ee20f/artifacts
+end_time: 1678076336039
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fce066b070e2454886b710dc961ee20f
+run_name: sedate-hound-852
+run_uuid: fce066b070e2454886b710dc961ee20f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678076240505
+status: 4
+tags: []
+user_id: ot

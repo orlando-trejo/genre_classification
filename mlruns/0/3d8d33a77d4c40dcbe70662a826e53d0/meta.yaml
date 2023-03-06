@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ot/Documents/Udacity/MLOps/genre_classification/mlruns/0/3d8d33a77d4c40dcbe70662a826e53d0/artifacts
+end_time: 1678057385273
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3d8d33a77d4c40dcbe70662a826e53d0
+run_name: charming-panda-654
+run_uuid: 3d8d33a77d4c40dcbe70662a826e53d0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678057376037
+status: 4
+tags: []
+user_id: ot

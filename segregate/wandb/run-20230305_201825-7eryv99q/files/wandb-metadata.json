@@ -1,0 +1,55 @@
+{
+    "os": "macOS-12.6.3-x86_64-i386-64bit",
+    "python": "3.11.0",
+    "heartbeatAt": "2023-03-06T04:18:25.914265",
+    "startedAt": "2023-03-06T04:18:25.362087",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "--input_artifact",
+        "preprocessed_data.csv:latest",
+        "--artifact_root",
+        "data",
+        "--artifact_type",
+        "segregated_data",
+        "--test_size",
+        "0.3",
+        "--random_state",
+        "42",
+        "--stratify",
+        "genre"
+    ],
+    "state": "running",
+    "program": "/Users/ot/Documents/Udacity/MLOps/genre_classification/segregate/run.py",
+    "codePath": "segregate/run.py",
+    "git": {
+        "remote": "https://github.com/orlando-trejo/genre_classification.git",
+        "commit": "3dd6c7f204c81e13823e7a9891c49accc1feb7cf"
+    },
+    "email": null,
+    "root": "/Users/ot/Documents/Udacity/MLOps/genre_classification",
+    "host": "MacBook-Pro-de-OT.local",
+    "username": "ot",
+    "executable": "/Users/ot/opt/anaconda3/envs/mlflow-311e7cc2c9b312f35d8eaf85503128380a18472b/bin/python",
+    "cpu_count": 8,
+    "cpu_count_logical": 16,
+    "cpu_freq": {
+        "current": 2300,
+        "min": 2300,
+        "max": 2300
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2300,
+            "min": 2300,
+            "max": 2300
+        }
+    ],
+    "disk": {
+        "total": 931.546989440918,
+        "used": 19.219886779785156
+    },
+    "memory": {
+        "total": 16.0
+    }
+}

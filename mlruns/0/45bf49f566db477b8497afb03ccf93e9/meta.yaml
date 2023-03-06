@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ot/Documents/Udacity/MLOps/genre_classification/mlruns/0/45bf49f566db477b8497afb03ccf93e9/artifacts
+end_time: 1678076427420
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 45bf49f566db477b8497afb03ccf93e9
+run_name: skittish-asp-415
+run_uuid: 45bf49f566db477b8497afb03ccf93e9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678076411566
+status: 3
+tags: []
+user_id: ot

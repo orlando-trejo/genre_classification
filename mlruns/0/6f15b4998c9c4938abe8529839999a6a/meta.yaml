@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ot/Documents/Udacity/MLOps/genre_classification/mlruns/0/6f15b4998c9c4938abe8529839999a6a/artifacts
+end_time: 1678076149287
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6f15b4998c9c4938abe8529839999a6a
+run_name: calm-bird-46
+run_uuid: 6f15b4998c9c4938abe8529839999a6a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678075285813
+status: 4
+tags: []
+user_id: ot
